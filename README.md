@@ -12,6 +12,6 @@ orignial tokens for server are stored in server/.env, OpenAI token for client is
 - user submits are saved in the backend MongoAtlas
 - flag avatar and user location based on IP address
 
-###$ To be improved
+#### To be improved
 - authentification
 - delete

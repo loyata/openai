@@ -1,0 +1,12 @@
+server/node_modules
+server/.env
+server/.Procfile
+
+client/node_modules
+client/.firebase
+client/build
+client/.firebaserc
+client/src/env.js
+
+.idea
+

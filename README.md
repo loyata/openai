@@ -15,5 +15,6 @@ orignial tokens for server are stored in server/.env, OpenAI token for client is
 #### To be improved
 - authentification
 - delete
-- 
-https://github.com/loyata/openai/blob/master/demo.png
+
+![demo]([relative/path/to/img.jpg](https://github.com/loyata/openai/blob/master/demo.png)?raw=true "Title")
+
